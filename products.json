@@ -1,0 +1,74 @@
+[
+    {
+        "name": "POCO",
+        "image": "images/phone1.jpg",
+        "description": "Latest features, great performance, and excellent battery life.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+    },
+    {
+        "name": "Phone Model 2",
+        "image": "images/phone2.jpg",
+        "description": "Fast charging, sleek design, and high-resolution camera.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+    },
+    {
+        "name": "Phone Model 3",
+        "image": "images/phone3.jpg",
+        "description": "Affordable and feature-packed for everyday use.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+    },
+    {
+        "name": "POCO",
+        "image": "images/phone1.jpg",
+        "description": "Latest features, great performance, and excellent battery life.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+    },
+    {
+        "name": "Phone Model 2",
+        "image": "images/phone2.jpg",
+        "description": "Fast charging, sleek design, and high-resolution camera.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+    },
+    {
+        "name": "Phone Model 3",
+        "image": "images/phone3.jpg",
+        "description": "Affordable and feature-packed for everyday use.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+    },
+    {
+        "name": "POCO",
+        "image": "images/phone1.jpg",
+        "description": "Latest features, great performance, and excellent battery life.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+    },
+    {
+        "name": "Phone Model 2",
+        "image": "images/phone2.jpg",
+        "description": "Fast charging, sleek design, and high-resolution camera.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+    },
+    {
+        "name": "Phone Model 3",
+        "image": "images/phone3.jpg",
+        "description": "Affordable and feature-packed for everyday use.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+    },
+    {
+        "name": "POCO",
+        "image": "images/phone1.jpg",
+        "description": "Latest features, great performance, and excellent battery life.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+    },
+    {
+        "name": "Phone Model 2",
+        "image": "images/phone2.jpg",
+        "description": "Fast charging, sleek design, and high-resolution camera.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+    },
+    {
+        "name": "Phone Model 3",
+        "image": "images/phone3.jpg",
+        "description": "Affordable and feature-packed for everyday use.",
+        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+    }
+]
