@@ -42,13 +42,14 @@ function filterProducts(query) {
                product.description.toLowerCase().includes(query.toLowerCase());
     });
 
-    // Only show suggestions if there are multiple matching products
-    if (filteredProducts.length > 1 && query.trim() !== '') {
+    // Only show suggestions if there are matching products
+    if (query.trim() !== '' && filteredProducts.length > 0) {
         suggestionsBox.style.display = 'block';
         suggestionsBox.innerHTML = '';  // Clear previous suggestions
 
-        // Create suggestion items
-        filteredProducts.forEach(product => {
+        // Show top 5 suggestions
+        const topSuggestions = filteredProducts.slice(0, 5);
+        topSuggestions.forEach(product => {
             const suggestionItem = document.createElement('div');
             suggestionItem.classList.add('suggestion-item');
             suggestionItem.innerText = product.name;
@@ -60,7 +61,7 @@ function filterProducts(query) {
             suggestionsBox.appendChild(suggestionItem);
         });
     } else {
-        suggestionsBox.style.display = 'none';  // Hide suggestions if no multiple matches
+        suggestionsBox.style.display = 'none';  // Hide suggestions if no matches
         displayProducts(filteredProducts);  // Display the filtered products
     }
 }
@@ -70,4 +71,11 @@ const searchInput = document.getElementById('search-bar');
 searchInput.addEventListener('input', (event) => {
     const query = event.target.value;  // Get the search query
     filterProducts(query);  // Filter products based on the query
+});
+
+// Hide suggestions when clicking outside of the search bar or suggestions box
+document.addEventListener('click', (event) => {
+    if (!searchInput.contains(event.target) && !document.getElementById('suggestions').contains(event.target)) {
+        document.getElementById('suggestions').style.display = 'none'; // Hide suggestions when clicking outside
+    }
 });

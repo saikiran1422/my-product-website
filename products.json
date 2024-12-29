@@ -1,74 +1,58 @@
 [
     {
-        "name": "POCO",
-        "image": "images/phone1.jpg",
-        "description": "Latest features, great performance, and excellent battery life.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+        "name": "REDMI 13 5G",
+        "image": "images/redmi13.jpg",
+        "description": "Redmi 13 5G, Hawaiian Blue, 6GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+        "amazon_link": "https://www.amazon.in/gp/aw/d/B0D78WCNZZ/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=de7f7ae74b75e7e330549beae2c05b93&hsa_cr_id=0&sr=1-2-undefined&ref_=sbx_be_dp_arbies_lsi4d_asin_1_img&pd_rd_w=7MvhF&content-id=amzn1.sym.8b13584a-c7fa-402c-b0a3-ddf39b989f1f&pf_rd_p=8b13584a-c7fa-402c-b0a3-ddf39b989f1f&pf_rd_r=63VNY6W6ERT4FRAWFWED&pd_rd_wg=hEcp9&pd_rd_r=2ebded9a-9ce7-4358-bbed-775530d13f17&th=1"
     },
     {
-        "name": "Phone Model 2",
-        "image": "images/phone2.jpg",
-        "description": "Fast charging, sleek design, and high-resolution camera.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+        "name": "REDMI A4 ",
+        "image": "images/redmiA4.jpg",
+        "description": "Redmi A4 5G (Starry Black, 4GB RAM, 64GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP Dual Camera | 18W Fast Charging",
+        "amazon_link": "https://www.amazon.in/Redmi-Storage-Segment-Largest-Charging/dp/B0DLW1L5PR/ref=sr_1_1_sspa?crid=4CASCPO4A16J&dib=eyJ2IjoiMSJ9.UA9Dj7Y6oR_kzvFrpQ2jb5_1nJIFubq4-EoZ0RbwoKqHW1Do66uC0ZZZ8qIsxc4-WYeewlf103Q_D57qfc8U8jw2zCrZH9w5QXriIa-Nw5RSrTvwael9O2qz6ponLLs0js30GbT9Cwjqc0mvc2kjRRuq8dnbvvGksLKJCjxAplfhZfRue-BlIGKCkFgb1uTj8688dyO7dUvUtOi7Q_5sfaU4btb3nfW_B0uYGB_FmOU.MHXEm_Sz0GBUVDkjxUODu8ZN7yfhGGNysWdT5yfO0lQ&dib_tag=se&keywords=all%2Bmobile%2B5g%2Bunder%2B10000&qid=1735462014&sprefix=all%2Bmobils%2Caps%2C207&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"
     },
     {
-        "name": "Phone Model 3",
-        "image": "images/phone3.jpg",
-        "description": "Affordable and feature-packed for everyday use.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+        "name": "POCO M6",
+        "image": "images/pocom6.jpg",
+        "description": "POCO M6 5G (Galactic Black, 4GB RAM, 64GB Storage) | MediaTek Dimensity 6100+ 5G Processor | 5000 mAh Battery + 18W Fast Charging | 50 MP AI Dual-Camera System & Side Fingerprint Sensor",
+        "amazon_link": "https://www.amazon.in/POCO-Dimensity-Processor-Dual-Camera-Fingerprint/dp/B0DDT7VQP3/ref=sr_1_2?adgrpid=165138815242&dib=eyJ2IjoiMSJ9.i79yTRL8oxIBVhlxiwHK4NQjxKLIHR2sZL030lhgjXAEPrKJLTCBPLlKBWGw1mDr6OZE7BLWsLrk-laD9miLty3doJF1Kx5PqAO7Mn1FYliGOejjt0FrK3vrf29aOewhCnrhe0c6tNIdsrAekToIkInTKTiWB5URjp7oOMBm2S9P87-1pGnPhLLG8wvJ-glvVr6sesiK5NAlsBFT5-VTsK2o2MvCySuMZ5BOhXzz28I.qJYEEAGbmNaID91s8KLZRynGkrMWKnSIyef3HcSzYCo&dib_tag=se&gad_source=1&hvadid=714735088279&hvdev=c&hvlocphy=9062168&hvnetw=g&hvqmt=e&hvrand=13112225061980742048&hvtargid=kwd-2312426952453&hydadcr=25233_2856592&keywords=poco+m6-5g&mcid=f008aabdf3553c93aa9582cb0aa04d67&nsdOptOutParam=true&qid=1735463246&sr=8-2"
     },
     {
-        "name": "POCO",
-        "image": "images/phone1.jpg",
-        "description": "Latest features, great performance, and excellent battery life.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+        "name": "PREALME 12 PRO",
+        "image": "images/realme12pro.jpg",
+        "description": "realme 12 Pro 5G (Submarine Blue, 12GB RAM, 256GB Storage) | 50 MP Sony IMX882 OIS Camera | 32 MP 2X Flagship Telephoto Portrait Camera | Snapdragon 6 Gen 1 5G.",
+        "amazon_link": "https://www.amazon.in/s?k=real+me+12+pro&adgrpid=1328211654123886&hvadid=83013499487312&hvbmt=be&hvdev=c&hvlocphy=154979&hvnetw=o&hvqmt=e&hvtargid=kwd-83014108999509%3Aloc-90&hydadcr=24569_2369346&msclkid=41f79d721cdc1335fdd1fa030c839e08&tag=msndeskstdin-21&ref=pd_sl_2w668twpl1_e"
     },
     {
-        "name": "Phone Model 2",
-        "image": "images/phone2.jpg",
-        "description": "Fast charging, sleek design, and high-resolution camera.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+        "name": "Samsung Galaxy M05",
+        "image": "images/samsungmo5.jpg",
+        "description": "Samsung Galaxy M05 (Mint Green, 4GB RAM, 64 GB Storage) | 50MP Dual Camera | Bigger 6.7 HD+ Display | 5000mAh Battery | 25W Fast Charging | 2 Gen OS Upgrade & 4 Year Security Update | Without Charger",
+        "amazon_link": "https://www.amazon.in/Samsung-Storage-Display-Charging-Security/dp/B0DFY3XCB6/ref=sr_1_3?adgrpid=1317216539842212&dib=eyJ2IjoiMSJ9.YFHwfIh7GPJJ09bm1bBID7pMwzGL6ASlOswVf-cMj-VfyURsFDboVyr_uEDBW2HQy_XmyRZHQQ-xt4TKJd4DeOhk_JRH0f5hcHgHVF4REmHliGIegqaMCNC_SzfROD8zNt1P0rXXYetLMpJyQ52Lv3rP_KpllL4lEETwhcn4Zk7jhxELRMc4xI9VkNLHj3w-MOugw3YZGDMc1C5X1sxYb3otaUBC_TaRfy33l3x50SU.POMZVXt5fd0q9N_AbWPg4Fspu0NyAwbvE4AwWY2kNqg&dib_tag=se&hvadid=82326304011540&hvbmt=be&hvdev=c&hvlocphy=154979&hvnetw=o&hvqmt=e&hvtargid=kwd-82326918533974%3Aloc-90&hydadcr=15398_2369778&keywords=mobiles&qid=1735455265&sr=8-3"
     },
     {
-        "name": "Phone Model 3",
-        "image": "images/phone3.jpg",
-        "description": "Affordable and feature-packed for everyday use.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+        "name": "Vivo Y300 5G",
+        "image": "images/vivoy300.jpg",
+        "description": "Vivo Y300 5G (Titanium Silver, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "amazon_link": "https://www.amazon.in/Vivo-Titanium-Storage-Additional-Exchange/dp/B07WDKLBLZ/ref=sr_1_3?adgrpid=1317216588724100&dib=eyJ2IjoiMSJ9.YD-tHdeS1ad5mOPyiD0tkT4yQ5SkJjBBy1EGzaAWG_llg89WiaogI7hAyCAIYKfdjk9oXTJHhqz-aEHnrJSCcClYWnMkd1QFxejsRC8U0n0HIdtZwEVh19s3z7lVqA5AqWK6q_uZTp-IEavJce1kXAOd-4IfW53Di1u7_NQ2j-orh5bgYYBZI539LW1AWbf0rt1kUv_aFz_haRq91_dCIOi2bJAhB4z4Kv-DTZwyH83jC3eH5wnptBCHivvvuABWEaSrDuJczsme1iHjmnUqMIx2Pe3vxltcNTvInJagTJfgLv2f7zXnsXD4y5Zq2kY4XDV8uGULQROi4Fd1MzsxAGUFj0epCrWCIx_R1N0ZTCY.sKd7e9FZ4yvnDrtooEh53fz7zK7JCyiplYriZHo0R-k&dib_tag=se&hvadid=82326303104012&hvbmt=bp&hvdev=c&hvlocphy=154979&hvnetw=o&hvqmt=p&hvtargid=kwd-82326970017381%3Aloc-90&hydadcr=25202_2783765&keywords=vivo+smart+phone+new&msclkid=3a9d9f77bafd1dba92b9f806a8daeef1&qid=1735463465&s=electronics&sr=1-3"
     },
     {
-        "name": "POCO",
-        "image": "images/phone1.jpg",
-        "description": "Latest features, great performance, and excellent battery life.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
+        "name": "Iphone 16 128GB",
+        "image": "images/iphone16.jpg",
+        "description": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Teal",
+        "amazon_link": "https://www.amazon.in/iPhone-16-128-GB-Control/dp/B0DGJH8RYG/ref=sr_1_1_sspa?adgrpid=1327112140166765&dib=eyJ2IjoiMSJ9.NUmmhgTpkuMyxC5iZMICwNRpw4cH0fxHT6auoQP5zNJtFRNOPqmw4ggNnOLjMJRNotKqtZXISnvwjxlvDxZtXaQZ36c4eDfunoaWMPYdwS92aUIzupeSFB-yXQgwzY4NAm8DRrB0Eo0WQEvCsEfD-GlzlNFB72eErJdxnJnV01DwGWA_Rxs0r2jiQMx8ZHdRQvIAmLgZfPulla4WkkmzY12VPo90B4wr4At5skl5s04._upT0jytoYGG1wK_-h4ock4O6a6AFry2wYZmRRWWU0A&dib_tag=se&hvadid=82944779931259&hvbmt=be&hvdev=c&hvlocphy=154979&hvnetw=o&hvqmt=e&hvtargid=kwd-82945383608130%3Aloc-90&hydadcr=15396_2369780&keywords=iphone+16&msclkid=dbf75b06b96a1e945c893c77abf37a60&qid=1735463579&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
     },
     {
-        "name": "Phone Model 2",
-        "image": "images/phone2.jpg",
-        "description": "Fast charging, sleek design, and high-resolution camera.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
+        "name": "Oppo K12x 5G",
+        "image": "images/oppok12.jpg",
+        "description": "Oppo K12x 5G with 45W SUPERVOOC Charger in-The-Box (Midnight Voilet, 128 GB) (6 GB RAM)",
+        "amazon_link": "https://www.amazon.in/Oppo-SUPERVOOC-Charger-Midnight-Voilet/dp/B0DHCWFHR3/ref=sr_1_2?adgrpid=1317216536949348&dib=eyJ2IjoiMSJ9.wcHx4FcWXktNejXCwX3iA0TrFgQgvflNs8HNLYcPZiqfZMS_a8uBUDYPhCToyLGB0L6QavdQmDT_m121FO9iFcjwtIga0wZKzTf5yMtvGyG4CqaVbnLjBNIoCufwpeOjcFZU898Lv8E7vRpqPVXem4s-tEg74mdtL3TMKOdFGLRmmvi5di4ovpiaRDplwhCKjAqnwTjDZZg5FTNVLgkIMZVtpy3C-XKE7fCrGWTkrC0.MxhfVb7t1I3RvyU0oAaQJfaJwPf4xO2vqCFso0_64GU&dib_tag=se&hvadid=82326304013410&hvbmt=bp&hvdev=c&hvlocphy=154979&hvnetw=o&hvqmt=p&hvtargid=kwd-82326913363434%3Aloc-90&hydadcr=24542_2369315&keywords=latest+model+in+oppo&nsdOptOutParam=true&qid=1735463700&sr=8-2"
     },
     {
-        "name": "Phone Model 3",
-        "image": "images/phone3.jpg",
-        "description": "Affordable and feature-packed for everyday use.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
-    },
-    {
-        "name": "POCO",
-        "image": "images/phone1.jpg",
-        "description": "Latest features, great performance, and excellent battery life.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ1234"
-    },
-    {
-        "name": "Phone Model 2",
-        "image": "images/phone2.jpg",
-        "description": "Fast charging, sleek design, and high-resolution camera.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ5678"
-    },
-    {
-        "name": "Phone Model 3",
-        "image": "images/phone3.jpg",
-        "description": "Affordable and feature-packed for everyday use.",
-        "amazon_link": "https://www.amazon.com/dp/B08XYZ9101"
+        "name": "Infinix Note 40 Pro 5G",
+        "image": "images/infonixnote40pro.jpg",
+        "description": "Infinix Note 40 Pro 5G (Vintage Green, 256 GB)  (8 GB RAM)",
+        "amazon_link": "https://www.flipkart.com/infinix-note-40-pro-5g/p/itmabf2f4763835d?pid=MOBGZCBWUBBPE6PG"
     }
+    
+    
 ]
